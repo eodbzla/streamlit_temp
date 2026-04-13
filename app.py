@@ -536,7 +536,7 @@ elif menu == "K-POP":
         result = quiz_page(
             title = "케이팝5",
             difficulty = "5️⃣/5️⃣",
-            audio_path =  "assets/10minute.mp3",
+            audio_path =  "assets/10miniute.mp3",
             answers = ["10minutes", "텐미닛"],
             key = "k_ans5",
             next_page = "k_결과",
